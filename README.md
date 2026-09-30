@@ -4,10 +4,10 @@
 I'm a R&D Engineer from New Jersey working at Johnson and Johnson MedTech in the Performance Evaluation group. I have experience spanning medical device testing, product evaluation, and test and fixture design.
 
 ### Work Experience
-R&D Performance Evaluation Engineer # Johnson & Johnson MedTech
-- high impact bullet 1
-- high impact bullet 2
+**R&D Performance Evaluation Engineer @ Johnson & Johnson MedTech (_Sept 2025 - Present_)**
+**R&D Engineering Co-op @ MTF Biologics (_Jan 2025 - June 2025_)**
 
-### Projects
-Implant Evaluation Fixture
-(/assets/SWModels/mcfa.glb)
+### Fixtures
+**Implant Evaluation Fixture**
+
+**Expression Fixture**
