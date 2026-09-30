@@ -10,5 +10,8 @@ I'm a R&D Engineer from New Jersey working at Johnson and Johnson MedTech in the
 
 ### Fixtures
 **Implant Evaluation Fixture**
+This fixture's purpose was to evaluate breast implant sample's resistance to a cut.
+
+(/assets/img/MCFA_Screenshot.png)
 
 **Expression Fixture**
