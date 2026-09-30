@@ -5,6 +5,7 @@ I'm a R&D Engineer from New Jersey working at Johnson and Johnson MedTech in the
 
 ### Work Experience
 **R&D Performance Evaluation Engineer @ Johnson & Johnson MedTech (_Sept 2025 - Present_)**
+
 **R&D Engineering Co-op @ MTF Biologics (_Jan 2025 - June 2025_)**
 
 ### Fixtures
