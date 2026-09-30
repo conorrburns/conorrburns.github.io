@@ -9,3 +9,5 @@ R&D Performance Evaluation Engineer # Johnson & Johnson MedTech
 - high impact bullet 2
 
 ### Projects
+Implant Evaluation Fixture
+(/assets/SWModels/mcfa.glb)
