@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Conor Burns | R&amp;D Engineer</title>
+  <meta name="description" content="Engineering portfolio of Conor Burns, R&D Engineer and Certified SOLIDWORKS Professional (CSWP). Custom test fixtures for medical device performance evaluation.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231d5fa8'/%3E%3Ctext x='16' y='21.5' font-family='Arial' font-weight='700' font-size='14' fill='white' text-anchor='middle'%3ECB%3C/text%3E%3C/svg%3E">
+  <script type="importmap">
+  { "imports": {
+      "three": "./vendor/three/build/three.module.js",
+      "three/addons/": "./vendor/three/addons/"
+  } }
+  </script>
+</head>
+<body>
+
+<!-- ============ HEADER ============ -->
+<header class="intro">
+  <div class="wrap">
+    <h1>Conor Burns</h1>
+    <p class="role">R&amp;D Engineer</p>
+    <p class="about">
+      R&amp;D engineer with 2+ years of experience supporting medical device product development.
+      I design and build custom test fixtures in SOLIDWORKS, develop and validate test methods on
+      Instron and Zwick systems, and turn the data into engineering decisions with Minitab.
+    </p>
+
+    <div class="cta">
+      <a href="assets/Conor_Burns_Resume.pdf" class="btn" download>
+        <svg viewBox="0 0 24 24"><path d="M12 4v11m0 0-4.5-4.5M12 15l4.5-4.5M5 19h14"/></svg>
+        Download resume
+      </a>
+      <!-- CSWP: replace href="#" with the certificate link (e.g. the SOLIDWORKS/Tangix verification URL) -->
+      <a href="#" id="cswpLink" class="btn btn-ghost" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24"><path d="M12 3 4 6v6c0 4.5 3.4 8.2 8 9 4.6-.8 8-4.5 8-9V6l-8-3z M8.5 12l2.5 2.5 4.5-5"/></svg>
+        View CSWP
+      </a>
+    </div>
+
+    <ul class="contact">
+      <li><svg viewBox="0 0 24 24"><path d="M4 6h16v12H4z M4 7l8 6 8-6"/></svg><a href="mailto:conorburns1208@gmail.com">conorburns1208@gmail.com</a></li>
+      <li><svg viewBox="0 0 24 24"><path d="M5 9v10M5 5v.01M10 19v-6a3 3 0 0 1 6 0v6M10 9v10M16 13v6"/></svg><a href="https://www.linkedin.com/in/conorrburns" target="_blank" rel="noopener">linkedin.com/in/conorrburns</a></li>
+    </ul>
+  </div>
+</header>
+
+<!-- ============ PROJECTS ============ -->
+<main id="projects" class="section">
+  <div class="wrap">
+    <div class="section-head">
+      <p class="eyebrow mono">Fixtures</p>
+      <h2>Projects</h2>
+      <p class="section-sub">Drag to rotate, scroll to zoom, right-drag to pan any 3D model.</p>
+    </div>
+    <div id="projectList"></div>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="wrap mono">© <span id="year"></span> Conor Burns</div>
+</footer>
+
+<script src="projects.js"></script>
+<script type="module" src="script.js"></script>
+</body>
+</html>

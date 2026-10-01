@@ -1,17 +1,14 @@
-# Portfolio
+# Conor Burns — Engineering Portfolio
 
-### About Me
-I'm a R&D Engineer from New Jersey working at Johnson and Johnson MedTech in the Performance Evaluation group. I have experience spanning medical device testing, product evaluation, and test and fixture design.
+Static site for GitHub Pages (`conorrburns.github.io`). No build step.
 
-### Resume
+## Common edits
+- **CSWP link:** in `index.html`, find `id="cswpLink"` and replace `href="#"` with the certificate URL.
+- **Videos:** in `projects.js`, set `video:` for each project to a repo file
+  (`assets/videos/name.mp4`, keep under ~25 MB) or a YouTube link. Empty = placeholder.
+- **Project text:** edit `projects.js` (title, subtitle, summary, highlights, specs, tags).
+- **Resume:** replace `assets/Conor_Burns_Resume.pdf` (same filename).
+- **3D models:** SOLIDWORKS › File › Save As › glTF Binary (.glb) into `assets/projects/`.
 
-[Click here to view the PDF](/assets/resume/Conor_Burns_resume.pdf)
-
-### Fixtures
-**Implant Evaluation Fixture**
-
-This fixture's purpose was to evaluate breast implant sample's resistance to a cut.
-
-![MCFA Screenshot](/assets/img/MCFA_Screenshot.png)
-
-**Expression Fixture**
+## Preview locally
+`python -m http.server` in this folder, then open http://localhost:8000
