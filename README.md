@@ -5,7 +5,7 @@ I'm a R&D Engineer from New Jersey working at Johnson and Johnson MedTech in the
 
 ### Resume
 
-Conor_Burns_resume.pdf
+./assets/resume/Conor_Burns_resume.pdf
 
 ### Fixtures
 **Implant Evaluation Fixture**
