@@ -25,7 +25,7 @@ window.PROJECTS = [
     specs: { Software: "SOLIDWORKS", "Test system": "Instron", Mechanism: "Rack & pinion" },
     tags: ["Fixture Design", "Mechanism Design", "Test Method Development", "Instron"],
     model: "assets/projects/travel-distance-fixture.glb",
-    video: ""
+    video: "assets/videos/travel-dsitance.mov"
   },
   {
     title: "Linear Actuator Cutting Fixture",
@@ -42,6 +42,6 @@ window.PROJECTS = [
     specs: { Software: "SOLIDWORKS", Drive: "Linear actuator", Guidance: "Ball-bearing rail" },
     tags: ["Fixture Design", "Electromechanical", "Automation", "Cost Reduction"],
     model: "assets/projects/actuator-cutting-fixture.glb",
-    video: ""
+    video: "assets/videos/cut-fixture.mp4"
   }
 ];
