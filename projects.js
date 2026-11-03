@@ -42,6 +42,6 @@ window.PROJECTS = [
     specs: { Software: "SOLIDWORKS", Drive: "Linear actuator", Guidance: "Ball-bearing rail" },
     tags: ["Fixture Design", "Electromechanical", "Automation", "Cost Reduction"],
     model: "assets/projects/actuator-cutting-fixture.glb",
-    video: "assets/videos/cut-fixture.mp4"
+    video: "assets/videos/cut-fixure.mp4"
   }
 ];
